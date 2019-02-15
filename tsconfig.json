@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "lib": ["esnext", "dom"],
+        // "declaration": true,
+        "sourceMap": true,
+        "outDir": "./lib"
+    },
+    "include": ["src/*.ts"],
+    "exclude": ["src/*.test.ts"]
+}
