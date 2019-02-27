@@ -14,7 +14,7 @@ Install it from npm:
 npm install babel-plugin-mockingbird
 ```
 
-Add it to your babelrc **only for test environments** (usually it is e):
+Add it to your babelrc **only for test environments**:
 
 ```js
 const TEST_CONFIG = {
